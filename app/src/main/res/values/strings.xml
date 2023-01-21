@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Stime</string>
+    <string name="login_title">Bienvenue !</string>
+    <string name="login_user">E-mail</string>
+    <string name="login_password">Mot de passe</string>
+    <string name="login_message">Veuillez vous connecter ou créer un nouveau compte pour utiliser l'application</string>
+    <string name="login_login">Se connecter</string>
+    <string name="login_register">Créer un nouveau compte</string>
+</resources>
