@@ -15,4 +15,5 @@
     <string name="forgotten_password_message">Veuillez saisir votre email afin de réinitialiser votre mot de passe</string>
     <string name="send_new_password">Renvoyer mon mot de passe</string>
     <string name="about">En savoir plus</string>
+    <string name="wishes">Ma liste de souhaits</string>
 </resources>
